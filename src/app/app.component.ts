@@ -12,6 +12,6 @@ export class AppComponent {
 	constructor() {
 		let rsa: RSA = new RSA();
 
-		rsa.main();
+		// rsa.main();
 	}
 }
